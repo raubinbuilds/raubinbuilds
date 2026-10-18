@@ -23,7 +23,7 @@
 
 - 🔭 Currently building **[Sentinel — Linux System Monitor](https://github.com/raubinbuilds/sentinel-linux-system-monitor)**
 - 💻 Interested in backend development, APIs, Linux, and system programming.
-- 🛠️ Working with **Python, FastAPI, PostgreSQL, C++, and Git**.
+- 🛠️ Working with **Python, FastAPI, PostgreSQL, C++,Java and Git**.
 - 🧠 Practicing Data Structures and Algorithms on LeetCode.
 - 🌱 Learning Linux administration, Bash scripting, and DevOps fundamentals.
 - 📫 Reach me at **[raubinsingh458@gmail.com](mailto:raubinsingh458@gmail.com)**
@@ -37,6 +37,7 @@
   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI"/></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL"/></a>
   <a href="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/></a>
   <a href="https://en.cppreference.com/w/c/language"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
